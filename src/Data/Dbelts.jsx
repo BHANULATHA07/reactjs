@@ -1,0 +1,58 @@
+export const Dogsbelts=[
+    {
+        id:1,
+        Title:'PAWPRO Collar belt',
+        color:'black',
+        price:299,
+        image:'/imagess/b1.webp',
+    },
+    {
+        id:2,
+        Title:'PAWPRO Collar ',
+        color:'red',
+        price:499,
+        image:'/imagess/b2.webp',
+    },
+    {
+        id:3,
+        Title:'Agirav Harness',
+        color:'black',
+        price:399,
+        image:'./imagess/b3.webp',
+    },
+    {
+        id:4,
+        Title:'Collar&Rope Set ',
+        color:'',
+        price:349,
+        image:'./imagess/b4.webp',
+    },
+    {
+        id:5,
+        Title:'Collar&Leash Set ',
+        color:'',
+        price:599,
+        image:'./imagess/b5.webp',
+    },
+    {
+        id:6,
+        Title:'Puppy Collars',
+        color:'',
+        price:400,
+        image:'./imagess/b6.webp',
+    },
+    {
+        id:7,
+        Title:'Black Dog Collar Belt',
+        color:'',
+        price:199,
+        image:'./imagess/b7.webp',
+    },
+    {
+        id:8,
+        Title:'Leather Collars for Dogs',
+        color:'',
+        price:599,
+        image:'./imagess/b8.webp',
+    },
+]
