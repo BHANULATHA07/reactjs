@@ -1,17 +1,23 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
+
 function Sidenav() {
   return (
     <div className='nav'>       
-        <ul>
-        <li>Dogs</li>
-        <li>Cats</li>
-        <Link to ='/Dashboad'><li>Logout</li></Link>
-        </ul>
+      <h4>Dashboard</h4>   
+      <ul>
+        <li>DOGS</li>
+        <Link to ='/ViewallDtoys'><li>Toys</li></Link>
+        <Link to ='/ViewallDshirts'><li>shirts</li></Link>
+        <Link to ='/ViewallDbelts'><li>Belts</li></Link>
+        <li>Logout</li>
+        
+      </ul>
+    
 
     </div>
-  )
+  );
 }
-
+       
 export default Sidenav
