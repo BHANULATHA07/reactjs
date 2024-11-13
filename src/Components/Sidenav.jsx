@@ -20,8 +20,5 @@ function Sidenav() {
   );
 }
        
-<<<<<<< HEAD
+
 export default Sidenav
-=======
-export default Sidenav
->>>>>>> f4cbf7ee50c5b5cb4271795ee916e76d9e57ff64
