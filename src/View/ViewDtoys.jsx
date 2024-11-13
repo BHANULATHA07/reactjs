@@ -9,17 +9,21 @@ function ViewDtoys() {
         {
             slicetoys.map((e)=>{
                 return(
-                    <Link to={`/ViewDtoys/${e.id}`}>
+                    
                       
                       <div className='a1'>
-                      <img src={e.image} alt="" />
+                        <Link to={`/ViewDtoys/${e.id}`}>
+                        <img src={e.image} alt="" />
+                        </Link>
                         <p>{e.id}</p>
                         <p>{e.Title}</p>
                         <p>{e.color}</p>
                         <p>{e.price}</p>
-                      
+                        <div className='but'>
+                        <button>Cart</button>
+                        </div>
                       </div>
-                    </Link>
+                    
                        
 
 

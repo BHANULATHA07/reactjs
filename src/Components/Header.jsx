@@ -3,6 +3,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 
+
 function NavbarDarkExample() {
   return (
     <Navbar variant="dark" bg="dark" expand="lg">
@@ -10,8 +11,11 @@ function NavbarDarkExample() {
         <Navbar.Brand >Pet Accessories</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbar-dark-example" />
         <Navbar.Collapse id="navbar-dark-example">
+
+
           
           <Nav>
+          
           <div className='profile'>
             <img src="https://lumiere-a.akamaihd.net/v1/images/ct_frozen_elsa_18466_22a50822.jpeg" alt="" />
           </div>
@@ -42,3 +46,6 @@ function NavbarDarkExample() {
 }
 
 export default NavbarDarkExample;
+
+
+

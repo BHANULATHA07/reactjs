@@ -41,5 +41,19 @@ export const Dogshirts=[
         price:800,
         image:'https://m.media-amazon.com/images/I/81E1oOyCjaL._AC_UF1000,1000_QL80_.jpg',
     },
+    {
+        id:7,
+        Title:'Pack Halloween Dog Shirts ',
+        color:'Orange',
+        price:800,
+        image:'https://m.media-amazon.com/images/I/61zPGF0pyXL._AC_UL320_.jpg',
+    },
+    {
+        id:8,
+        Title:' Dog Shirts ',
+        color:'Orange',
+        price:800,
+        image:'https://m.media-amazon.com/images/I/51hZx1RCTbL._AC_UL320_.jpg',
+    },
     
 ]

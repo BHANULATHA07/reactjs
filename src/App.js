@@ -4,6 +4,7 @@ import Signup from './Pages/Signup'
 import Dashboard from './Pages/Dashboard'
 import ViewallDtoys from './Viewall/ViewallDtoys'
 import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router,Routes,Route } from 'react-router-dom'
 import ViewallDshirts from './Viewall/ViewallDshirts'
 import ViewallDbelts from './Viewall/ViewallDbelts'
@@ -19,6 +20,7 @@ import SDtoyssli from './Singleitems/SDtoyssli'
 function App() {
   return (
     <div>
+      <div className='container-fluid'>
       <Router>
         <Routes>
           <Route path='/' element={<Login />} />
@@ -35,7 +37,7 @@ function App() {
           <Route path='/ViewDtoys' element={<SDtoyssli />} />
         </Routes>
       </Router>
-  
+      </div>
      
     </div>
 );

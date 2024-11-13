@@ -4,42 +4,60 @@ export const Dogtoys=[
         Title:'12 Pack Puppy Teething Toys ',
         color:'all',
         price:200,
-        image:'https://m.media-amazon.com/images/I/81AT+nV0BpL._AC_UF1000,1000_QL80_.jpg',
+        image:'https://m.media-amazon.com/images/I/614C3fm5KDL._AC_UL320_.jpg',
+        
     },
     {
         id:2,
         Title:'Dog Chew Spike Bone,',
         color:'red,green,yellow',
         price:300,
-        image:'https://m.media-amazon.com/images/I/61ZzVG3VjpL._AC_UF1000,1000_QL80_.jpg',
+        image:'https://m.media-amazon.com/images/I/71DudvI5slL._AC_UL320_.jpg',
+     
     },
     {
         id:3,
         Title:'Goofy Tails Dog Ball Combo',
         color:'red,green,yellow',
         price:500,
-        image:'https://goofytails.com/cdn/shop/products/Untitled-1_6527a59d-1b8c-4fd2-be40-ede8c35b8dcf.jpg?v=1676117247',
+        image:'https://m.media-amazon.com/images/I/41wcUwg+XsL._AC_UL320_.jpg',
+       
     },
     {
         id:4,
         Title:'Dog Chew Cotton Rope',
         color:'black',
         price:450,
-        image:'https://m.media-amazon.com/images/I/71-ArbgL1fL._SX522_.jpg',
+        image:'https://m.media-amazon.com/images/I/61WXO+uqjyL._AC_UL320_.jpg',
     },
     {
         id:5,
         Title:'Squeaky Dog Toys',
         color:'black',
         price:250,
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmo9Kw1VNAN5kFe5MXC80WviGYrl62qzk-qQ&s',
+        image:'https://m.media-amazon.com/images/I/516eozP79pL._AC_UL320_.jpg',
     },
     {
         id:6,
         Title:'Natural Rubber Chew Toys',
         color:'red',
         price:500,
-        image:'https://m.media-amazon.com/images/I/51i+E0hjD4L._AC_UF1000,1000_QL80_.jpg',
+        image:'https://m.media-amazon.com/images/I/61vwwkgg3SL._AC_UL320_.jpg',
+
+    },
+    {
+        id:7,
+        Title:'Natural Rubber Chew Toys',
+        color:'red',
+        price:500,
+        image:'https://m.media-amazon.com/images/I/61cDGVbKa1L._AC_UL320_.jpg',
+    },
+    {
+        id:8,
+        Title:'Natural Rubber Chew Toys',
+        color:'red',
+        price:500,
+        image:'https://m.media-amazon.com/images/I/71ZGd3eqHfL._AC_UL320_.jpg',
     },
    
 ]
