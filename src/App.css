@@ -1,11 +1,12 @@
 /* CSS for the Login Component */
 
- .Log {
+ 
+.Log {
   width: 100%;
   max-width: 400px;
   margin: 180px auto;
   padding: 20px;
-  background-color: #f4f4f9;
+  background-color: #94c2dd;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   font-family: Arial, sans-serif;
@@ -15,7 +16,7 @@
   max-width: 400px;
   margin: 180px auto;
   padding: 20px;
-  background-color: #f4f5f9;
+  background-color: #88b39b;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   font-family: Arial, sans-serif;
@@ -85,20 +86,24 @@ a:hover {
   background-color: black;
   height:100vh;
   color:white;
-  padding:20px;
+  padding:5px;
   position:sticky;
   top:0;
+ 
   
 }
+
 .nav li{
-  margin-top: 30px;
+  margin-top: 80px;
   list-style-type: none;
   text-decoration: none;
 }
 .nav li:hover{
   color:white;
 }
-  
+.nav1{
+  margin-bottom: 800px;
+}  
 
 /* header */
 .profile img{
@@ -108,13 +113,13 @@ a:hover {
  
 }
 .profile{
-  padding-left: 750px;
+  padding-left:650px;
 }
 /*IMG*/
 .container {
   display:flex;
   flex-wrap:wrap;
-  gap:1%;
+  gap:2%;
   border: black;
 }
 
@@ -128,12 +133,19 @@ a:hover {
   width:200px;
   display: flex;
   flex-wrap: wrap;
+  
+
 }
+
 .a1{
   margin:2px;
   padding:2px;
   border:2px solid black;
   gap:3%;
+}
+
+.but{
+  text-align: center;
 }
 
 
