@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BHANULATHA07/reactjs.git/static/css/main.1c112a59.css",
+    "main.js": "/BHANULATHA07/reactjs.git/static/js/main.f7074d74.js",
+    "static/js/453.25388467.chunk.js": "/BHANULATHA07/reactjs.git/static/js/453.25388467.chunk.js",
+    "index.html": "/BHANULATHA07/reactjs.git/index.html",
+    "main.1c112a59.css.map": "/BHANULATHA07/reactjs.git/static/css/main.1c112a59.css.map",
+    "main.f7074d74.js.map": "/BHANULATHA07/reactjs.git/static/js/main.f7074d74.js.map",
+    "453.25388467.chunk.js.map": "/BHANULATHA07/reactjs.git/static/js/453.25388467.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c112a59.css",
+    "static/js/main.f7074d74.js"
+  ]
+}
