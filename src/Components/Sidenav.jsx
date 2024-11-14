@@ -11,7 +11,7 @@ function Sidenav() {
         <Link to ='/ViewallDtoys'><li>Toys</li></Link>
         <Link to ='/ViewallDshirts'><li>shirts</li></Link>
         <Link to ='/ViewallDbelts'><li>Belts</li></Link>
-        <li>Logout</li>
+        <Link to='/Login'><li>Logout</li></Link>
         
       </ul>
     
