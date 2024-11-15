@@ -19,11 +19,8 @@ function ViewDbelts() {
                       </Link>
                         <p>{e.id}</p>
                         <p>{e.Title}</p>
-                        <p>{e.color}</p>
-                        <p>{e.price}</p>
-                        <div className='but'>
-                        <button>Cart</button>
-                        </div>
+                        
+                        
                       </div>
                      
 

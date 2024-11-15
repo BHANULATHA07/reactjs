@@ -80,28 +80,28 @@ a {
 a:hover {
   text-decoration: underline;
 }
- .nav{
+ .nav1{
   background-color: black;
-  height:100vh;
+  height:98vh;
   color:white;
-  padding:5px;
   position:sticky;
   top:0;
- 
-  
+}
+.nav2{
+  /* margin-top: 40px; */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
 }
 
-.nav li{
-  margin-top: 80px;
+.nav2 li{
   list-style-type: none;
   text-decoration: none;
 }
-.nav li:hover{
+.nav2 li:hover{
   color:white;
 }
-.nav1{
-  margin-bottom: 800px;
-}  
+
 
 /* header */
 .profile img{
@@ -136,13 +136,14 @@ a:hover {
 }
 
 .a1{
+  margin-top: 20px;
   margin:2px;
   padding:2px;
   border:2px solid black;
   gap:3%;
 }
 
-.but{
+.car{
   text-align: center;
-
 }
+

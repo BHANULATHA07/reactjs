@@ -17,7 +17,7 @@ function ViewallDtoys() {
         {
             Dogstoys.map((e)=>{
                 return(
-                  
+                      <div className='top' style={{marginTop:'20px'}}>
                       <div className='a1'>
                         <Link to={`/ViewallDtoys/${e.id}`} key={e.id}> 
                         <img src={e.image} alt="" />
@@ -26,9 +26,7 @@ function ViewallDtoys() {
                         <p>Title:{e.Brand}</p>
                         <p>Color:{e.color}</p>
                         <p>Price:{e.price}</p>
-                        <div className='but'>
-                        <button>Cart</button>
-                        </div>
+                      </div>  
                       </div>
                      
 

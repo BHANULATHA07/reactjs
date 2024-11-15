@@ -17,9 +17,15 @@ function Dashboard() {
             </Col>
             <Col sm={10}>
                 <Header />
-                <ViewDtoys />
+                <div style={{marginTop:'20px'}}>
+                <ViewDtoys/>
+                </div>
+                <div style={{marginTop:'10px'}}>
                 <ViewDshirts />
+                </div>
+                <div style={{marginTop:'10px'}}>
                 <ViewDbelts />
+                </div>
                
             </Col>
         </Row>
